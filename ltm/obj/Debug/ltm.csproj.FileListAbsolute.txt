@@ -1,0 +1,90 @@
+D:\ltm\ltm\ltm\obj\Debug\ltm.csproj.AssemblyReference.cache
+D:\ltm\ltm\ltm\obj\Debug\ltm.Properties.Resources.resources
+D:\ltm\ltm\ltm\obj\Debug\ltm.csproj.GenerateResource.cache
+D:\ltm\ltm\ltm\obj\Debug\ltm.csproj.CoreCompileInputs.cache
+D:\ltm\ltm\ltm\obj\Debug\ltm.frmDangNhap.resources
+D:\ltm\ltm\ltm\obj\Debug\ltm.frmGachHoa.resources
+D:\ltm\ltm\ltm\obj\Debug\ltm.frmHoaDon.resources
+D:\ltm\ltm\ltm\obj\Debug\ltm.frmKhachHang.resources
+D:\ltm\ltm\ltm\obj\Debug\ltm.frmMain.resources
+D:\ltm\ltm\ltm\obj\Debug\ltm.frmNCC.resources
+D:\ltm\ltm\ltm\obj\Debug\ltm.frmNguoiDung.resources
+D:\ltm\ltm\ltm\obj\Debug\ltm.frmPhieuNhap.resources
+D:\ltm\ltm\ltm\obj\Debug\ltm.frmThongKe.resources
+D:\ltm\ltm\ltm\bin\Debug\ltm.exe.config
+D:\ltm\ltm\ltm\bin\Debug\ltm.exe
+D:\ltm\ltm\ltm\bin\Debug\ltm.pdb
+D:\ltm\ltm\ltm\obj\Debug\ltm.exe
+D:\ltm\ltm\ltm\obj\Debug\ltm.pdb
+C:\Users\H\Downloads\ltm\ltm\bin\Debug\ltm.exe.config
+C:\Users\H\Downloads\ltm\ltm\bin\Debug\ltm.exe
+C:\Users\H\Downloads\ltm\ltm\bin\Debug\ltm.pdb
+C:\Users\H\Downloads\ltm\ltm\obj\Debug\ltm.csproj.AssemblyReference.cache
+C:\Users\H\Downloads\ltm\ltm\obj\Debug\ltm.frmDangNhap.resources
+C:\Users\H\Downloads\ltm\ltm\obj\Debug\ltm.frmGachHoa.resources
+C:\Users\H\Downloads\ltm\ltm\obj\Debug\ltm.frmHoaDon.resources
+C:\Users\H\Downloads\ltm\ltm\obj\Debug\ltm.frmKhachHang.resources
+C:\Users\H\Downloads\ltm\ltm\obj\Debug\ltm.frmMain.resources
+C:\Users\H\Downloads\ltm\ltm\obj\Debug\ltm.frmNCC.resources
+C:\Users\H\Downloads\ltm\ltm\obj\Debug\ltm.frmNguoiDung.resources
+C:\Users\H\Downloads\ltm\ltm\obj\Debug\ltm.frmPhieuNhap.resources
+C:\Users\H\Downloads\ltm\ltm\obj\Debug\ltm.frmThongKe.resources
+C:\Users\H\Downloads\ltm\ltm\obj\Debug\ltm.Properties.Resources.resources
+C:\Users\H\Downloads\ltm\ltm\obj\Debug\ltm.csproj.GenerateResource.cache
+C:\Users\H\Downloads\ltm\ltm\obj\Debug\ltm.csproj.CoreCompileInputs.cache
+C:\Users\H\Downloads\ltm\ltm\obj\Debug\ltm.exe
+C:\Users\H\Downloads\ltm\ltm\obj\Debug\ltm.pdb
+D:\ltm\ltm\ltm\bin\Debug\QLGH.mdf
+D:\ltm\ltm\ltm\bin\Debug\QLGH_log.ldf
+D:\ltm\ltm\ltm\bin\Debug\BouncyCastle.Crypto.dll
+D:\ltm\ltm\ltm\bin\Debug\itextsharp.dll
+D:\ltm\ltm\ltm\bin\Debug\itextsharp.xml
+D:\ltm\ltm\ltm\obj\Debug\ltm.csproj.CopyComplete
+D:\ltm\ltm - Copy\ltm\bin\Debug\QLGH.mdf
+D:\ltm\ltm - Copy\ltm\bin\Debug\QLGH_log.ldf
+D:\ltm\ltm - Copy\ltm\bin\Debug\ltm.exe.config
+D:\ltm\ltm - Copy\ltm\bin\Debug\ltm.exe
+D:\ltm\ltm - Copy\ltm\bin\Debug\ltm.pdb
+D:\ltm\ltm - Copy\ltm\bin\Debug\BouncyCastle.Crypto.dll
+D:\ltm\ltm - Copy\ltm\bin\Debug\itextsharp.dll
+D:\ltm\ltm - Copy\ltm\bin\Debug\itextsharp.xml
+D:\ltm\ltm - Copy\ltm\obj\Debug\ltm.csproj.AssemblyReference.cache
+D:\ltm\ltm - Copy\ltm\obj\Debug\ltm.frmDangNhap.resources
+D:\ltm\ltm - Copy\ltm\obj\Debug\ltm.frmGachHoa.resources
+D:\ltm\ltm - Copy\ltm\obj\Debug\ltm.frmHoaDon.resources
+D:\ltm\ltm - Copy\ltm\obj\Debug\ltm.frmKhachHang.resources
+D:\ltm\ltm - Copy\ltm\obj\Debug\ltm.frmMain.resources
+D:\ltm\ltm - Copy\ltm\obj\Debug\ltm.frmNCC.resources
+D:\ltm\ltm - Copy\ltm\obj\Debug\ltm.frmNguoiDung.resources
+D:\ltm\ltm - Copy\ltm\obj\Debug\ltm.frmPhieuNhap.resources
+D:\ltm\ltm - Copy\ltm\obj\Debug\ltm.frmThongKe.resources
+D:\ltm\ltm - Copy\ltm\obj\Debug\ltm.Properties.Resources.resources
+D:\ltm\ltm - Copy\ltm\obj\Debug\ltm.csproj.GenerateResource.cache
+D:\ltm\ltm - Copy\ltm\obj\Debug\ltm.csproj.CoreCompileInputs.cache
+D:\ltm\ltm - Copy\ltm\obj\Debug\ltm.csproj.CopyComplete
+D:\ltm\ltm - Copy\ltm\obj\Debug\ltm.exe
+D:\ltm\ltm - Copy\ltm\obj\Debug\ltm.pdb
+D:\ltm\ltm2\ltm\bin\Debug\QLGH.mdf
+D:\ltm\ltm2\ltm\bin\Debug\QLGH_log.ldf
+D:\ltm\ltm2\ltm\bin\Debug\ltm.exe.config
+D:\ltm\ltm2\ltm\bin\Debug\ltm.exe
+D:\ltm\ltm2\ltm\bin\Debug\ltm.pdb
+D:\ltm\ltm2\ltm\bin\Debug\BouncyCastle.Crypto.dll
+D:\ltm\ltm2\ltm\bin\Debug\itextsharp.dll
+D:\ltm\ltm2\ltm\bin\Debug\itextsharp.xml
+D:\ltm\ltm2\ltm\obj\Debug\ltm.csproj.AssemblyReference.cache
+D:\ltm\ltm2\ltm\obj\Debug\ltm.frmDangNhap.resources
+D:\ltm\ltm2\ltm\obj\Debug\ltm.frmGachHoa.resources
+D:\ltm\ltm2\ltm\obj\Debug\ltm.frmHoaDon.resources
+D:\ltm\ltm2\ltm\obj\Debug\ltm.frmKhachHang.resources
+D:\ltm\ltm2\ltm\obj\Debug\ltm.frmMain.resources
+D:\ltm\ltm2\ltm\obj\Debug\ltm.frmNCC.resources
+D:\ltm\ltm2\ltm\obj\Debug\ltm.frmNguoiDung.resources
+D:\ltm\ltm2\ltm\obj\Debug\ltm.frmPhieuNhap.resources
+D:\ltm\ltm2\ltm\obj\Debug\ltm.frmThongKe.resources
+D:\ltm\ltm2\ltm\obj\Debug\ltm.Properties.Resources.resources
+D:\ltm\ltm2\ltm\obj\Debug\ltm.csproj.GenerateResource.cache
+D:\ltm\ltm2\ltm\obj\Debug\ltm.csproj.CoreCompileInputs.cache
+D:\ltm\ltm2\ltm\obj\Debug\ltm.csproj.CopyComplete
+D:\ltm\ltm2\ltm\obj\Debug\ltm.exe
+D:\ltm\ltm2\ltm\obj\Debug\ltm.pdb
