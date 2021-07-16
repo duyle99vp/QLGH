@@ -108,8 +108,10 @@ namespace ltm
             this.txtPass.Location = new System.Drawing.Point(124, 136);
             this.txtPass.Margin = new System.Windows.Forms.Padding(2);
             this.txtPass.Name = "txtPass";
+            this.txtPass.PasswordChar = '*';
             this.txtPass.Size = new System.Drawing.Size(187, 29);
             this.txtPass.TabIndex = 2;
+            this.txtPass.Text = "admin";
             this.txtPass.UseWaitCursor = true;
             // 
             // txtUser
@@ -121,6 +123,7 @@ namespace ltm
             this.txtUser.Name = "txtUser";
             this.txtUser.Size = new System.Drawing.Size(187, 29);
             this.txtUser.TabIndex = 1;
+            this.txtUser.Text = "admin";
             // 
             // label1
             // 

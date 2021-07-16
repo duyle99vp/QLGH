@@ -17,7 +17,7 @@ namespace ltm.Class
         public static void Connect()
         {
             Con = new SqlConnection(); //Khởi tạo đối tượng kết nối
-            Con.ConnectionString = @"Data Source = 192.168.8.129; Initial Catalog = QLGH; Persist Security Info = True; User ID = sa; Password = 123456";
+            Con.ConnectionString = Properties.Settings.Default.ConnectionString;
             
             Con.Open();
             //Kiểm tra kết nối
